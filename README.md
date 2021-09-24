@@ -1,4 +1,11 @@
-#ISIS1225 - Estructura de un proyecto
+# Laboratorio 5 - EDA
+
+## Hecho por:
+1. Daniel Gomez | 201728920 | df.gomezb@uniandes.edu.co
+2. Jenifer Arce | 202014993 | j.arce@uniandes.edu.co
+
+
+# ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
